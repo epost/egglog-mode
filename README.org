@@ -1,0 +1,8 @@
+#+title: ~egglog-mode~
+
+An Emacs major mode for working with [[https://github.com/egraphs-good/egglog][egglog]].
+
+Usage, artisanal style:
+
+1) Do ~M-x eval-buffer~ on ~egglog-mode.el~.
+2) Do ~M-x egglog-mode~ on the ~.egg~ file.
